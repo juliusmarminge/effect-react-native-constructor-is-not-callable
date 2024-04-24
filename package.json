@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@effect/schema": "^0.66.7",
+    "@types/react": "~18.2.45",
+    "@uploadthing/mime-types": "^0.2.8",
+    "@uploadthing/shared": "^6.7.0",
+    "effect": "3.0.0",
     "expo": "~50.0.14",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "typescript": "^5.4.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
